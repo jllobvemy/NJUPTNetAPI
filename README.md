@@ -1,7 +1,10 @@
 # NJUPTNetAPI
 南京邮电大学校园网登录 C++ API
+
 直接使用较为底层的WIN32 API 不适用于LINUX
+
 未使用任何第三方库
+
 轻量、快捷
 
 # Example:
@@ -36,5 +39,6 @@ current status: 1
  - `auto_login::operators::cmcc`
  - `auto_login::operators::china_net`
  - `auto_login::operators::campus`
+ 
  分别代表中国移动、中国电信、校园网
  
