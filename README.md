@@ -1,7 +1,7 @@
 # NJUPTNetAPI
 南京邮电大学校园网登录 C++ API
 
-直接使用较为底层的WIN32 API 不适用于LINUX
+直接使用较为底层的WIN32 API **不适用于LINUX**
 
 未使用任何第三方库
 
